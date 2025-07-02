@@ -26,7 +26,7 @@
 <ul>
   <li><strong>2024:</strong> Winner — "Fintech" Category at <strong>AI Hackathon</strong> organized by Akij Resource and Mutual Trust Bank PLC</li>
   <li><strong>2024:</strong> Special Mention — <strong>AI Engineering Hackathon</strong> by Poridhi.io & Brain Station 23</li>
-  <li><strong>2019:</strong> Nationalist — Inter School and College Programming Contest (ISCPC)</li>
+  <li><strong>2019:</strong> Participant — Inter School and College Programming Contest (ISCPC) (National Round)</li>
 </ul>
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
