@@ -20,7 +20,7 @@ I enjoy taking an ML idea beyond the notebook: building the data and inference p
 | [GraphRec](https://github.com/Hasin-ai/GraphRec) | Multi-tenant graph-based recommendation platform with a typed Python SDK and a reference storefront (ReelStore). |
 | [VisionLab / CCTV Analytics](https://github.com/Hasin-ai/cctv_analysis) | Real-time multi-camera video analytics, RTSP ingestion, tracking workflows and zone-based analytics. |
 | [MomentBrand AI](https://github.com/Hasin-ai/MomentBrand-AI) | Generative AI product for brand intelligence and bilingual creative generation, with HTML/CSS-based compositing. |
-| [Error Bar Detection](https://github.com/Hasin-ai/Error-Bars-Detection-in-Scientific-Plots) | Synthetic scientific-plot generation and a hybrid vision pipeline for error-bar keypoint localization. |
+| [Visual Pollution Detection](https://github.com/Hasin-ai/visual-pollution-detection-system) | YOLOv11-based FastAPI service for detecting six categories of visual pollution, with confidence scores and bounding-box results. |
 | [JSpace-Qwen](https://github.com/Hasin-ai/jspace-qwen) | PyTorch-based experiments and instrumentation for studying internal representations in Qwen models. |
 | [Transformer Introspection](https://github.com/Hasin-ai/transformer-introspection) | Controlled activation interventions and behavioral experiments on a small instruction-tuned transformer. |
 
